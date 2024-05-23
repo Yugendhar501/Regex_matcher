@@ -3,9 +3,6 @@ This project is a web-based regex matcher built using Flask. It allows users to 
 
 ## Features
 - Input a regular expression and a test string.
-
 - Check if the test string matches the regular expression.
-- 
 - Display the result of the match.
-- 
 - Highlight matching portions of the test string.
